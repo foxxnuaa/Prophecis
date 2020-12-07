@@ -5,8 +5,9 @@ Prophecis是微众银行自研的一站式机器学习平台，集成多种开�
 ## Architecture
 - #### 整体架构
   ![Prophecis](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/image/Prophecis%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
-                                                                           **图1 Prophecis整体架构**
-  ***Prophecis主要包含5个关键服务：***
+  <p align="center">图1 Prophecis整体架构</p>
+  
+  **Prophecis主要包含5个关键服务：**
 
   - **Prophecis Machine Learning Flow**：机器学习分布式建模工具，具备单机和分布式模式模型训练能力，支持Tensorflow、Pytorch、xgboost等多种机器学习框架，支持从机器学习建模到部署的完整Pipeline；
 
@@ -21,11 +22,13 @@ Prophecis是微众银行自研的一站式机器学习平台，集成多种开�
 - #### 功能特色
 
   ![Prophecis功能特色](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/image/Prophecis%E5%8A%9F%E8%83%BD%E7%89%B9%E8%89%B23.jpg)
-                                                                       **图2 Prophecis功能特色**
+
+  **<p align="center">图2 Prophecis功能特色</p>**
 - **全生命周期的机器学习体验**：Prophecis的 MLFlow 通过 AppJoint 可以接入到 DataSphere Stdudio 的工作流中，支持从数据上传、数据预处理、特征工程、模型训练、模型评估到模型发布的机器学习全流程；
 
   ![DSS-Prophecis](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/image/DSS-Prophecis.gif)
-                                                                  **图3 Prophecis对接DSS功能展示**
+   **<p align="center">图3 Prophecis对接DSS功能展示</p>**
+
 - **一键式的模型部署服务**：Prophecis MF 支持将Prophecis Machine Learning Flow、Prophecis MLLabis 生成的训练模型一键式发布为 Restful API 或者 RPC 接口，实现模型到业务的无缝衔接；
 
 - **机器学习应用部署、运维、实验的综合管理平台**：基于社区开源方案定制，提供完整的、可靠的、高度灵活的企业级机器学习应用发布、监控、服务治理、日志收集和查询等管理工具，全方位实现对机器学习应用的管控，满足企业对于机器学习应用在线上生产环境的所有工作要求。
