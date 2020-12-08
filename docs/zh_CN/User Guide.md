@@ -43,7 +43,7 @@ III. 保存后，等待Notebook Ready便可进入Jupyter Lab实验环境
 
 - Prophecis项目组：每个用户会有相对应的用户组，通过用户组绑定对应的存储资源和计算资源，其中计算资源通过namespace来绑定对应机器，同时设置相应的K8s resource quota
   ![企业微信截图_16069803164422](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/userGuideImage/企业微信截图_16069803164422.png)
-                                                                            图：项目组管理
+                                                                           
 
 - Prophecis 用户存储设置：用户所使用的存储资源，通过用户组绑定，绑定后用户方可使用，注意需要在主机上设置对应的存储。
 
@@ -54,9 +54,9 @@ III. 保存后，等待Notebook Ready便可进入Jupyter Lab实验环境
 - Prophecis命名空间：k8s的命名空间，创建后会创建相应的resource quota，在机器标签页面绑定后可以设置资源。
 
   ![企业微信截图_16069803316016](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/userGuideImage/企业微信截图_16069803316016.png)
-                                                                           图：命名空间资源配额
+                                                                           
 
 - Prophecis 机器标签页面：命名空间绑定可在此处对应的机器，设置资源配额后，对应命名空间的容器会运行到对应的节点上。
  ![企业微信截图_16069803584435](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/userGuideImage/企业微信截图_16069803584435.png)
 
-​                                                                                 图：机器标签页面
+                                                                                
