@@ -42,7 +42,7 @@ Prophecis 是微众银行自研的一站式云原生机器学习平台，集成�
 - 编译Prophecis，请参考 [Develop Guide](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/Developing%20Guide.md)  文档。
 
 ## Roadmap
-- 关于Prophecis后续的Roadmap，可查看 [Roadmap](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/RoadMap.md) 文档，欢迎大家持续关注！
+- 关于Prophecis后续的Roadmap，可查看 [Roadmap](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/Roadmap.md) 文档，欢迎大家持续关注！
 
 ## Contributing
 
