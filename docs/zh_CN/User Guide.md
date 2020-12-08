@@ -46,7 +46,7 @@ III. 保存后，等待Notebook Ready便可进入Jupyter Lab实验环境
                                                                             图：项目组管理
 
 - Prophecis 用户存储设置：用户所使用的存储资源，通过用户组绑定，绑定后用户方可使用，注意需要在主机上设置对应的存储。
-- 
+
 ![企业微信截图_16069804034697](https://github.com/WeBankFinTech/Prophecis/blob/master/docs/zh_CN/userGuideImage/企业微信截图_16069804034697.png)
 
 
