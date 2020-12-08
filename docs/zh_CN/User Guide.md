@@ -1,7 +1,5 @@
 ### Prophecis用户文档
 
-[TOC]
-
 #### 一、MLLabis实验环境
 #### 1、创建Jupyter Lab实验环境
 
