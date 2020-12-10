@@ -37,14 +37,14 @@ Prophecis is a one-stop machine learning platform developed by WeBank. It integr
 - **Comprehensive Management Platform**：Based on the community open source program customization, Prophecis provides complete, reliable, and highly flexible enterprise-level machine learning application release, monitoring, service management, log collection and query management tools, and realizes the full control of machine learning applications to meet the needs of enterprises Learn to apply all the work requirements of the online production environment.
 
 ## Quick Start Guide
-- Read the  [Quick Start Guide](docs/zh_CN/QuickStartGuide) to quickly get going with **Prophecis**.
-- About Configuration，Read key configuration explanation in [Quick Start Guide](docs/zh_CN/Quick Start Guide.md) .
+- Read the  [Quick Start Guide](docs/zh_CN/QuickStartGuide.md) to quickly get going with **Prophecis**.
+- About Configuration，Read key configuration explanation in [Quick Start Guide](docs/zh_CN/QuickStartGuide.md) .
 
 ## Developing
-- Read the [Develop Guide](docs/zh_CN/Developing Guide.md)  guide to quickly get how to develop **Prophecis**.
+- Read the [Develop Guide](docs/zh_CN/DevelopGuide.md)  guide to quickly get how to develop **Prophecis**.
 
 ## Roadmap
-- See our [Roadmap](docs/zh_CN/zh_CN/Roadmap.md) for what's coming soon in **Prophecis**.
+- See our [Roadmap](docs/zh_CN/Roadmap.md) for what's coming soon in **Prophecis**.
 
 ## Contributing
 
