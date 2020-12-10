@@ -54,7 +54,7 @@ Contributions are warmly welcomed and greatly appreciated.
 
 If you desire immediate response, please kindly raise issues to us or scan the below QR code by WeChat and QQ to join our group: ：
 
-![Communication](.\image\Communication.png)
+![Communication](docs/zh_CN/image/Communication.png)
 
 ## License
 Prophecis  is under the Apache 2.0 license. See the LICENSE file for details.
